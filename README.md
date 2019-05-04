@@ -11,7 +11,7 @@ Simply include the corresponding css for the font you want.
 https://cdn.rawgit.com/JayXon/powerline-web-fonts/master/DroidSansMono.css
 ```
 
-* Droid Sans Mono Nerd Font Mono
+* Droid Sans Mono Nerd Font
 ```
 https://cdn.rawgit.com/JayXon/powerline-web-fonts/master/DroidSansMonoNerdFont.css
 ```
