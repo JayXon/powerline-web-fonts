@@ -8,12 +8,12 @@ Simply include the corresponding css for the font you want.
 
 * Droid Sans Mono for Powerline
 ```
-https://cdn.rawgit.com/JayXon/powerline-web-fonts/master/DroidSansMono.css
+https://cdn.jsdelivr.net/gh/JayXon/powerline-web-fonts/DroidSansMono.css
 ```
 
 * Droid Sans Mono Nerd Font
 ```
-https://cdn.rawgit.com/JayXon/powerline-web-fonts/master/DroidSansMonoNerdFont.css
+https://cdn.jsdelivr.net/gh/JayXon/powerline-web-fonts/DroidSansMonoNerdFont.css
 ```
 
 More fonts will be added if requested.
